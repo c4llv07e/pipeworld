@@ -2,7 +2,7 @@ About
 =====
 
 Pipeworld is a zooming dataflow tool and desktop heavily inspired by
-[userland](https://www.userland.org). It is built using the [arcan desktop
+[userland](https://hisham.hm/userland/). It is built using the [arcan desktop
 engine](https://arcan-fe.com) [git](https://github.com/letoram/arcan).
 
 It combines the programmable processing of shell scripts and pipes, the
